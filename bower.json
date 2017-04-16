@@ -1,0 +1,30 @@
+{
+  "name": "purescript-sam",
+  "homepage": "https://github.com/klangner/purescript-sam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klangner/purescript-sam.git"
+  },
+  "description": "Find structure in text documents",
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-arrays": "^4.0.1",
+    "purescript-foldable-traversable": "^3.0.0",
+    "purescript-integers": "^3.0.0",
+    "purescript-math": "^2.0.0",
+    "purescript-maybe": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-assert": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-psci-support": "^3.0.0",
+    "purescript-quickcheck": "^4.0.0"
+  }
+}
