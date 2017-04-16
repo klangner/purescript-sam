@@ -7,7 +7,7 @@
   </img>
 </a>
 
-Computing statistics in PureScriptStructure is determined by features, which can be simple like: line, word or can group in more complex features like URL, json, markdown or fragment of Lisp code.
+Structure is determined by features, which can be simple like; line, word or can group in more complex features like URL, json, markdown or fragment of Lisp code.
 
 ## Installation
 
